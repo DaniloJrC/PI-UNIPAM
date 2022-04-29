@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>833577410811-k9qiqm42b1mcttt17933ar126g68q219.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.833577410811-k9qiqm42b1mcttt17933ar126g68q219</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6lg1Q0jYyqNPwHyCYszbjoGlopiDk_i0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>833577410811</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>danilo.constancio.PI-UNIPAM</string>
+	<key>PROJECT_ID</key>
+	<string>pi-unipam</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pi-unipam.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:833577410811:ios:0fca8bac72b2b53ae9d05e</string>
+	<key>DATABASE_URL</key>
+	<string>https://pi-unipam-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
